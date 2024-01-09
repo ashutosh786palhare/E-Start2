@@ -46,4 +46,4 @@ Contributions are welcome! If you have any suggestions, improvements, or bug fix
 4. Icons by: [those lads](https://materialdesignicons.com/)https://materialdesignicons.com/
 
 ## Thank-You
-**Thank you for visiting my repository and exploring my portfolio website!**
+**Thank you for visiting my repository and exploring my Webpage!**
